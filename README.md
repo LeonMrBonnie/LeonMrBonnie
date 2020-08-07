@@ -2,7 +2,7 @@
 
 ## I'm a student and a developer
 - 🔭 I'm mainly a JS developer
-- 🌱 I’m currently learning to improve my familarity with an ocean of libraries
+- 🌱 I’m currently learning to improve my familiarity with an ocean of libraries
 - 👯 I mostly use NodeJS on the backend
 - 🥅 But I also sometimes do frontend development
 - ⚡ I code at least 4 hours a day, every day
