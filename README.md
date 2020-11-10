@@ -2,16 +2,12 @@
 
 ## I'm a student and a developer
 - 🔭 I'm mainly a JS developer
-- 🌱 I’m currently learning to improve my familiarity with an ocean of libraries
 - 👯 I mostly use NodeJS on the backend
 - 🥅 But I also sometimes do frontend development
-- ⚡ I code at least 4 hours a day, every day
 
 ### You can find me here
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://leonmrbonnie.de)
 [<img align="left" title="LeonMrBonnie#9840" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
-
 
 <br />
 
