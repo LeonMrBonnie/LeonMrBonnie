@@ -1,9 +1,4 @@
-### Hello, I am Leon - aka [LeonMrBonnie](https://leonmrbonnie.de) 👋
-
-## I'm a student and a developer
-- 🔭 I'm mainly a JS developer
-- 👯 I mostly use NodeJS on the backend
-- 🥅 But I also sometimes do frontend development
+### Hello, I am Leon - aka *LeonMrBonnie* 👋
 
 ### You can find me here
 
