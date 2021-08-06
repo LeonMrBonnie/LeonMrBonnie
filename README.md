@@ -9,5 +9,6 @@
 ### Statistics
 
 [![Leon's github stats](https://github-readme-stats.vercel.app/api?username=leonmrbonnie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonmrbonnie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
